@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - damage
+  - enemy
+  - speed1
+  - speed2
+  - speed3
+  - maxSpeed
+  - firstHealth
+  - secHealth
+  - thirdHealth
+  - fourthHealth
+  - fifthHealth
+  - destroyed
+  - healing
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - sprites
+  - buns
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3109984255
+    locked: 0
+  - name: sprites
+    uniqueID: 4104743303
+    locked: 0
+  - name: heart
+    uniqueID: 2716513641
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
